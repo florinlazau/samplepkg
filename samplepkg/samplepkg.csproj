@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <NeutralLanguage></NeutralLanguage>
+    <Copyright>Copyright 2017 (c) Contoso Corporation. All rights reserved.</Copyright>
   </PropertyGroup>
 
   <ItemGroup>

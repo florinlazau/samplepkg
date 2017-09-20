@@ -1,0 +1,22 @@
+﻿
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SamplePkg</id>
+    <version>$version$</version>
+    <title>Sample Pkg</title>
+    <authors>Lazau Florin</authors>
+    <owners>Lazau Florin</owners>
+    <licenseUrl></licenseUrl>
+    <projectUrl>http://terrarium.azurewebsites.net/</projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sample</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright &#x00A9; Microsoft Corporation.  All rights reserved.</copyright>
+    <tags>florin sample</tags>
+  </metadata>
+  <files>
+	<file src="SamplePkg.dll\bin\$configuration$\Samplepkg.dll" target="lib\net40\" />
+  </files>
+</package>
