@@ -668,10 +668,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "2.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
+    "version": "2.1.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\flori\\Documents\\sample projects\\samplepkg\\SamplePackage\\SamplePackage.csproj",
       "projectName": "SamplePackage",
