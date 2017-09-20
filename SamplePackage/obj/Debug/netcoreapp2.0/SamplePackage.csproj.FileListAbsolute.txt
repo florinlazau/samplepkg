@@ -1,0 +1,9 @@
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\bin\Debug\netcoreapp2.0\SamplePackage.deps.json
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\bin\Debug\netcoreapp2.0\SamplePackage.dll
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\bin\Debug\netcoreapp2.0\SamplePackage.pdb
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\obj\Debug\netcoreapp2.0\SamplePackage.csprojResolveAssemblyReference.cache
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\obj\Debug\netcoreapp2.0\SamplePackage.csproj.CoreCompileInputs.cache
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\obj\Debug\netcoreapp2.0\SamplePackage.AssemblyInfoInputs.cache
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\obj\Debug\netcoreapp2.0\SamplePackage.AssemblyInfo.cs
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\obj\Debug\netcoreapp2.0\SamplePackage.dll
+C:\Users\flori\Documents\sample projects\samplepkg\SamplePackage\obj\Debug\netcoreapp2.0\SamplePackage.pdb
