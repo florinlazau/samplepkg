@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SamplePkg</id>
-    <version>$version$</version>
+
     <title>Sample Pkg</title>
     <authors>Lazau Florin</authors>
     <owners>Lazau Florin</owners>
