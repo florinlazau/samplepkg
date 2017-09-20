@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>SamplePkg</id>
-
+    <version>1.0.0</version>
     <title>Sample Pkg</title>
     <authors>Lazau Florin</authors>
     <owners>Lazau Florin</owners>
