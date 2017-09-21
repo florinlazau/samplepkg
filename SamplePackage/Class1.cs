@@ -8,5 +8,7 @@ namespace SamplePackage
         public string sss { get; set; }
 
         public string NewProperty { get; set; }
+
+        public string Newnew { get; set; }
     }
 }
