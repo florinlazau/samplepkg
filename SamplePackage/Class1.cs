@@ -6,5 +6,7 @@ namespace SamplePackage
     {
         public string MyProp { get; set; }
         public string sss { get; set; }
+
+        public string NewProperty { get; set; }
     }
 }
