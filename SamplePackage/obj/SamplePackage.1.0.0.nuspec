@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
   <metadata>
     <id>SamplePackage</id>
-    <version>3.0.0</version>
+    <version>1.0.0</version>
     <authors>Lazau Florin</authors>
     <owners>Lazau Florin</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
