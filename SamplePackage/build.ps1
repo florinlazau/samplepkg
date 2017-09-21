@@ -2,4 +2,4 @@
 
 dotnet build 
 
-dotnet pack  -c Debug -o .\nugetpkg --version-suffix = $env:APPVEYOR_BUILD_NUMBER /p:PackageVersion=5.2.0
+dotnet pack  -c Debug -o .\nugetpkg --version-suffix = $env:APPVEYOR_BUILD_NUMBER 
