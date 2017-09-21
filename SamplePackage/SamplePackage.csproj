@@ -25,10 +25,6 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <WarningLevel>1</WarningLevel>
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="MSBump" Version="2.3.0" />
-  </ItemGroup>
   
 
 </Project>
